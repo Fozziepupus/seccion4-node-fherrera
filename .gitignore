@@ -1,0 +1,5 @@
+# indicar que ignore todo lo que esté en este archivo
+
+node_modules/
+tablas/*.txt
+package-lock.json
